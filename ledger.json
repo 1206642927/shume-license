@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-10-19 21:23",
+  "updated": "2026-10-19 22:37",
   "entries": [
     {
       "code": "3QTW-J243-WTG8V5",
@@ -16,6 +16,14 @@
       "name": "葛嘉湘笔记本",
       "issued": "2026-10-19",
       "exp": "2027-10-19",
+      "on": true
+    },
+    {
+      "code": "2PNE-WRD1-VMYQ5A",
+      "h": "94934BA5DA968DD2",
+      "name": "GE个人电脑",
+      "issued": "2026-10-19",
+      "exp": "",
       "on": true
     }
   ]
