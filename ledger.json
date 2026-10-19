@@ -1,11 +1,19 @@
 {
   "v": 2,
-  "updated": "2026-10-19 19:42",
+  "updated": "2026-10-19 19:43",
   "entries": [
     {
       "code": "3QTW-J243-WTG8V5",
       "h": "CE6223FC3E58B167",
       "name": "葛嘉湘-PC",
+      "issued": "2026-10-19",
+      "exp": "",
+      "on": true
+    },
+    {
+      "code": "0H8K-TG92-S4G7ZE",
+      "h": "FD0430D17F82DC4A",
+      "name": "葛嘉湘笔记本",
       "issued": "2026-10-19",
       "exp": "",
       "on": true
