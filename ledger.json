@@ -1,30 +1,4 @@
 {
-  "v": 2,
-  "updated": "2026-10-19 22:37",
-  "entries": [
-    {
-      "code": "3QTW-J243-WTG8V5",
-      "h": "CE6223FC3E58B167",
-      "name": "葛嘉湘-PC",
-      "issued": "2026-10-19",
-      "exp": "",
-      "on": true
-    },
-    {
-      "code": "0H8K-TG92-S4G7ZE",
-      "h": "FD0430D17F82DC4A",
-      "name": "葛嘉湘笔记本",
-      "issued": "2026-10-19",
-      "exp": "2027-10-19",
-      "on": true
-    },
-    {
-      "code": "2PNE-WRD1-VMYQ5A",
-      "h": "94934BA5DA968DD2",
-      "name": "GE个人电脑",
-      "issued": "2026-10-19",
-      "exp": "",
-      "on": true
-    }
-  ]
+  "sig": "kHU0BMN6sOrCbkiLy2zXO77F54O987vz6v7OUXr8IF7n5LneEiv2XCiP651QMOuoRCmjBFnN4mLjbNEU/2CO/4QyHVbYj9XTSshmp1YyuFGBp495OQl/QNBUoKoSnYQI8gSVGP0/xCEjOdj1AV2G9LahdhQZuzss1HyeRpKOA+M3wAKProbuk06poNMtZipRr+38iMAUauxsQgJnhjfgnSFZK7biVIkpglStBjx/DByQSb5ltsPHkhnj+vGcVopjHTPEPcKPCo9t6vJyvNdCYKAhc8qc6/8s8B4hOY2WuMO02pwSBShSSJvRBMHDXsIog+CHVst/EaB5yD1SGy6BQA==",
+  "body": "{\n  \"v\": 3,\n  \"updated\": \"2026-10-19 23:07\",\n  \"entries\": [\n    {\n      \"code\": \"3QTW-J243-WTG8V5\",\n      \"h\": \"CE6223FC3E58B167\",\n      \"name\": \"葛嘉湘-PC\",\n      \"issued\": \"2026-10-19\",\n      \"exp\": \"\",\n      \"on\": true\n    },\n    {\n      \"code\": \"0H8K-TG92-S4G7ZE\",\n      \"h\": \"FD0430D17F82DC4A\",\n      \"name\": \"葛嘉湘笔记本\",\n      \"issued\": \"2026-10-19\",\n      \"exp\": \"2027-10-19\",\n      \"on\": true\n    },\n    {\n      \"code\": \"2PNE-WRD1-VMYQ5A\",\n      \"h\": \"94934BA5DA968DD2\",\n      \"name\": \"GE个人电脑\",\n      \"issued\": \"2026-10-19\",\n      \"exp\": \"\",\n      \"on\": true\n    }\n  ]\n}"
 }
